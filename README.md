@@ -1,0 +1,1 @@
+A quick tutorial series I'm putting together to answer specific questions. This may not be the standard order you would learn in, it's designed for a particular use case
